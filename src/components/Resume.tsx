@@ -56,11 +56,16 @@ function Resume(){
                     </div>
                     <div><SubHeading title="Experience"/></div>
                 </div>
-                <div className="mt-4">
-                    <div className="w-full lg:w-1/2 bg-orange-200 p-4 rounded-xl">
+                <div className="mt-4 flex h-full gap-2 flex-col lg:flex-row">
+                    <div className="w-full lg:w-1/2  bg-orange-200 p-4 rounded-xl">
                         <div className="text-slate-600 font-semibold">2023 - 2023</div>
                         <div className='font-semibold my-2 text-lg'>Full Stack Developer</div>
                         <div className='font-semibold text-slate-600 my-2 text-lg'>Happilyever.co</div>
+                    </div>
+                    <div className="w-full lg:w-1/2  bg-orange-200 p-4 rounded-xl">
+                        <div className="text-slate-600 font-semibold">2024 - Present</div>
+                        <div className='font-semibold my-2 text-lg'>Software Development Engineer</div>
+                        <div className='font-semibold text-slate-600 my-2 text-lg'>Bullwhip.io</div>
                     </div>
                 </div>
             </div>
