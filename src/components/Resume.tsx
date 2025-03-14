@@ -2,7 +2,7 @@ import Heading from "./Heading";
 import SubHeading from "./SubHeading";
 
 function Resume(){
-    const skills=["React","Next.js","Node.js","Express.js","Javascript","Typescript","MongoDB","NoSQL","SQL","Prisma ORM","Cloudflare Worker","Socket.IO","Tailwind CSS","Hono","C++","HTML","CSS"]
+    const skills=["React","Next.js","Vue.js","Node.js","Express.js","Javascript","Typescript","MongoDB","NoSQL","SQL","Prisma ORM","Cloudflare Worker","Socket.IO","Tailwind CSS","Hono","C++","HTML","CSS","Nuxt","WebRTC"]
     return(
         <div className="w-full">
             <div>
@@ -65,7 +65,9 @@ function Resume(){
                     <div className="w-full lg:w-1/2  bg-orange-200 p-4 rounded-xl">
                         <div className="text-slate-600 font-semibold">2024 - Present</div>
                         <div className='font-semibold my-2 text-lg'>Software Development Engineer</div>
-                        <div className='font-semibold text-slate-600 my-2 text-lg'>Bullwhip.io</div>
+                        <div className='font-semibold text-slate-600 my-2 text-lg '>
+                           <a href="https://www.bullwhip.io/" target="_blank" className="underline">Bullwhip.io</a>
+                        </div>
                     </div>
                 </div>
             </div>

@@ -19,7 +19,7 @@ function About(){
                 <div className="w-full bg-custom-blue p-4 rounded-xl sm:w-[45%]">
                     <div className="font-bold text-2xl mb-2">Front End Development</div>
                     <div>
-                        I utilise technologies like <span className="font-bold">Next.js</span>, <span className="font-bold">React.js</span>, <span className="font-bold">Javascript</span>, <span className="font-bold">CSS</span>, and <span className="font-bold">HTML</span> to build responsive, user-friendly web applications.
+                        I utilise technologies like <span className="font-bold">Next.js</span>, <span className="font-bold">React.js</span>, <span className="font-bold">Vue.js</span>, <span className="font-bold">Javascript</span>, <span className="font-bold">CSS</span>, and <span className="font-bold">HTML</span> to build responsive, user-friendly web applications.
                     </div>
                 </div>
                 <div className="w-full bg-orange-200 p-4 rounded-xl sm:w-[45%]">
