@@ -8,8 +8,7 @@ function Work(){
       name: "Quizzify",
      description: "Enter any topic and get instant, personalized quizzes to enhance your learning. Receive detailed analytics and curated resources to fill knowledge gaps.",
      skills: ["Nextjs", "Hono", "Cloudflare Worker", "Cloudflare KV", "Postgres", "Gemini", "Tailwind CSS"],
-     liveLink: "https://quizzify.site",
-     githubLink: "https://github.com/atul250603/quizzify"
+     liveLink: "https://quizzify.site"
     }, 
     {
         id:2,

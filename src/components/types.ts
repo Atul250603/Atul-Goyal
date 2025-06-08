@@ -4,5 +4,5 @@ export interface projectType{
     description:string;
     skills:string[];
     liveLink:string;
-    githubLink:string;
+    githubLink?:string;
 }
